@@ -29,7 +29,7 @@ var quotes =
     quote: "When any two young people take it into their heads to marry, they are pretty sure by perseverance to carry their point, be they ever so poor, or ever so imprudent, or ever so little likely to be necessary to each other's ultimate comfort.",
     source: "Jane Austen",
     citation: "Persuasion",
-    year: "1818"
+    year: ""
   },
   {
     quote: "It can be a real struggle to accept that sometimes appearance can be more important than talent or intelligence.",
